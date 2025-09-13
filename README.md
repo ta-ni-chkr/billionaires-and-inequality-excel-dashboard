@@ -19,7 +19,7 @@ Microsoft Excel – Data cleaning, analysis & visualization
 ## Dashboard
 
 <p align="center">
-<img width="1500" height="850" alt="image" src="https://github.com/user-attachments/assets/536f03ad-fcfa-4a61-bb4c-2422a7a15d54" />
+<img width="1500" height="1300" alt="image" src="https://github.com/user-attachments/assets/536f03ad-fcfa-4a61-bb4c-2422a7a15d54" />
 </p>
 
 ## Insights
