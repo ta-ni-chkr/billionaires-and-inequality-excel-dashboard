@@ -19,7 +19,7 @@ Microsoft Excel – Data cleaning, analysis & visualization
 ## Dashboard
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/536f03ad-fcfa-4a61-bb4c-2422a7a15d54" alt="Country Rankings Table" width="900"/>
+  <img src="https://github.com/user-attachments/assets/536f03ad-fcfa-4a61-bb4c-2422a7a15d54" alt="Country Rankings Table" width="1100" height="1500"/>
 </p>
 
 ## Insights
