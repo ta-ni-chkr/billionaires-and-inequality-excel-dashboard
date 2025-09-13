@@ -18,7 +18,9 @@ Microsoft Excel – Data cleaning, analysis & visualization
 
 ## Dashboard
 
-<img width="1500" height="800" alt="image" src="https://github.com/user-attachments/assets/0184819e-cc62-42a6-900d-17e5656b5a40" />
+<p align="center">
+<img width="1500" height="850" alt="image" src="https://github.com/user-attachments/assets/536f03ad-fcfa-4a61-bb4c-2422a7a15d54" />
+</p>
 
 ## Insights
 
@@ -49,5 +51,6 @@ While India is one of the fastest-growing economies in the world, it is also amo
 
 The table below highlights country-wise rankings across billionaire count, average net worth, GDP, and per capita income — the foundation for deriving the inequality insights presented in this project.
 
+<p align="center">
   <img width="800" height="900" alt="image" src="https://github.com/user-attachments/assets/b536a1ff-bc55-450c-9ceb-cdd3aacc02e4" />
-
+</p>
