@@ -12,6 +12,8 @@
 
 An Excel-based dashboard exploring the world of billionaires with an added lens on wealth inequality. With interactive slicers, it highlights wealth distribution by country, industry, gender, and age etc. while uncovering how a small fraction of billionaires control a disproportionate share of global wealth. 
 
+The dataset is sourced from the ***Forbes 2025 Billionaires List***, focusing on the ***top 536 billionaires***.
+
 ## Built With
 
 Microsoft Excel – Data cleaning, analysis & visualization
@@ -25,7 +27,7 @@ Microsoft Excel – Data cleaning, analysis & visualization
 ## Insights
 
 -	Global billionaire wealth stands at $9.85 trillion, with a total of 536 billionaires averaging $18.38B each.
--	The United States topped the list with a record 211 billionaires — in fact 8 spots in the top 10 are held by the US; followed by China (including Hong Kong) with 69 billionaires; and India with 26 billionaires.
+-	The United States topped the list with a record 211 billionaires (almost 40% of total count)  — in fact 8 spots in the top 10 are held by the US; followed by China (including Hong Kong) with 69 billionaires; and India with 26 billionaires.
 -	The US alone holds nearly half of global billionaire wealth (49.66%), far ahead of China (8.55%) and India (4.91%).
 -	The billionaire pool is heavily male dominated (85%), with only 15% female representation.
 -	North America alone holds 53% of billionaire wealth, more than Europe and Asia combined.
