@@ -19,7 +19,7 @@ Microsoft Excel – Data cleaning, analysis & visualization
 ## Dashboard
 
 <p align="center">
-<img width="1500" height="2000" alt="image" src="https://github.com/user-attachments/assets/536f03ad-fcfa-4a61-bb4c-2422a7a15d54" />
+  <img src="https://github.com/user-attachments/assets/536f03ad-fcfa-4a61-bb4c-2422a7a15d54" alt="Country Rankings Table" width="900"/>
 </p>
 
 ## Insights
@@ -49,7 +49,7 @@ While India is one of the fastest-growing economies in the world, it is also amo
 -	Spain, being a large economy with just 3 billionaires, has the highest average billionaire wealth at $47.23B — which is over triple Germany’s ($15.54B) and nearly double Japan’s ($25.10B) averages, even though both feature within the top 10 largest economies. 
 -	Mexico follows with $32.28B per billionaire despite being far outside the global heavyweights, while Russia’s $15,248 PCI and $14.73B average billionaire wealth further highlight how extreme wealth concentration can overshadow national economic size.
 
-The table below highlights country-wise rankings across billionaire count, average net worth, GDP, and per capita income — the foundation for deriving the inequality insights presented in this project.
+The table below highlights country-wise rankings (within parenthesis) across billionaire count, average net worth, GDP, and per capita income — the foundation for deriving the inequality insights presented in this project.
 
 <p align="center">
   <img width="800" height="900" alt="image" src="https://github.com/user-attachments/assets/b536a1ff-bc55-450c-9ceb-cdd3aacc02e4" />
